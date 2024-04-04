@@ -3,3 +3,6 @@
 
 # ignore the terraform lock file
 *.hcl
+
+# ignore the backend file
+backend.tf
